@@ -1,6 +1,6 @@
 /*
  * PROJECT: ESP32 Universal Commander
- * AUTHOR: [Имя Твоего Сына]
+ * AUTHOR: Abdunnur
  * HARDWARE: ESP32-C3 Super Mini
  */
 
